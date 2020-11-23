@@ -1,4 +1,4 @@
 *~
-static/
 __pychache__
 *.pyc
+.*
