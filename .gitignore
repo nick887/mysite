@@ -2,3 +2,5 @@
 __pychache__
 *.pyc
 .*
+!.git
+!.gitignore
